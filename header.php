@@ -13,7 +13,6 @@
 <body <?php body_class(); ?>>
 
 <?php 
-// Get the ID of the page set as the Front Page
 $front_page_id = get_option('page_on_front'); 
 ?>
 
@@ -21,7 +20,6 @@ $front_page_id = get_option('page_on_front');
   <?php 
     $text = get_field('announcement_text', $front_page_id);
     if($text){
-        // We use echo without esc_html so the <u> tag from your WP dashboard actually works!
         echo $text; 
     } else {
         echo "Announcement text not found.";
