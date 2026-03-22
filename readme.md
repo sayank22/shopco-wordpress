@@ -37,7 +37,7 @@ A dynamic, mobile-optimized e-commerce homepage built as a custom WordPress them
 ## Video Demonstration
 
 A full walkthrough of the frontend responsiveness and backend CMS management can be found here:
-**[[Link to your Loom/Google Drive Video](https://www.loom.com/share/3d1ad2d71b7346d5963f7f08d054e38d)]** 
+**[[Link of Loom Video](https://www.loom.com/share/3d1ad2d71b7346d5963f7f08d054e38d)]** 
 
 ---
 **Developed by Sayan Kundu**
